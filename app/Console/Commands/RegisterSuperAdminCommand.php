@@ -13,7 +13,7 @@ class RegisterSuperAdminCommand extends Command
      *
      * @var string
      */
-    protected $signature = 'register:super-admin';
+    protected $signature = 'admin:register';
 
     /**
      * The console command description.
